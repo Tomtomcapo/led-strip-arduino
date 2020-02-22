@@ -1,0 +1,19 @@
+C:\Users\tcapo\AppData\Local\Temp\VMBuilds\LedStrip\nano_atmega328\Debug\LedStrip.cpp.o: \
+ C:\Users\tcapo\AppData\Local\Temp\VMBuilds\LedStrip\nano_atmega328\Debug\LedStrip.cpp \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/arduino.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/WString.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/HardwareSerial.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/Stream.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/Print.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/Printable.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\variants\eightanaloginputs/pins_arduino.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\variants\eightanaloginputs/../standard/pins_arduino.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\libraries\SoftwareSerial\src/SoftwareSerial.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/Stream.h \
+ D:\Utilisateurs\Thomas\Documents\Arduino\libraries\Adafruit_NeoPixel-master/Adafruit_NeoPixel.h \
+ D:\Programmes\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ D:\Utilisateurs\Thomas\Documents\Arduino\libraries\MemoryFree-master/MemoryFree.h
